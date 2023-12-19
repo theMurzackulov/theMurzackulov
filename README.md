@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" src="./images/1.png" alt="cover" />
-</div>
-
 ### Hello! My name is Beksultan and I am an aspiring Front End developer looking to grow professionally and gain experience in web development. I am interested in the opportunity to join a team where I can apply and develop my skills while working on exciting projects.
 ### My programming journey began with a passion for web technologies and a desire to create unique and user-friendly user interfaces. Over the past 1.5 years I have been studying and practicing in various areas of Front End development, gaining experience with HTML, CSS and JavaScript, React, Typescript ...
 <br/>
