@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./images/hi there.png" alt="cover" />
+  <img width="100%" src="./images/1.png" alt="cover" />
 </div>
 
 ### Hello! My name is Beksultan and I am an aspiring Front End developer looking to grow professionally and gain experience in web development. I am interested in the opportunity to join a team where I can apply and develop my skills while working on exciting projects.
